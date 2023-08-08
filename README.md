@@ -1,6 +1,6 @@
 # fluiddynamics
 
-Waves at Density Interface between Infinitely Deep Fluids
+Waves at Density Interface between Infinitely Deep Fluids in LaTeX
 
 ![Waves at Density Interface between Infinitely Deep Fluids page 1](https://github.com/js2nijjar/fluiddynamics/assets/141672092/724ee4c0-e957-41ad-8178-a3801fd89958)
 ![Waves at Density Interface between Infinitely Deep Fluids page 2](https://github.com/js2nijjar/fluiddynamics/assets/141672092/7ffb7404-436f-4e36-996f-adb41b614cfe)
